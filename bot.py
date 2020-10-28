@@ -14,7 +14,7 @@ ServerOnline = 1
 css_oldStatus = 1
 
 #Admin account. Change to owners token  (only one person has access to admin commands)
-admin = 189317034360832001
+admin = 000000000
 
 #Customizable during runtime soontm, for now on restart
 
